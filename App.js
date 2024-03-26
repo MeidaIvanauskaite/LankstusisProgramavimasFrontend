@@ -668,7 +668,3 @@ const styles = StyleSheet.create({
 // npm install (node_modules)
 // npm run start (qr code)
 // npm run android (qr code + paleidimas per android pc)
-  selectedTextStyle: {
-    fontSize: 16,
-  },
-});
